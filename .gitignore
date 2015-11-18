@@ -25,3 +25,7 @@ proguard/
 
 # Log Files
 *.log
+
+# Local files
+newFile2.txt
+newFile1.txt
